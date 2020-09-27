@@ -1,0 +1,27 @@
+
+div {
+	text-align: center;
+}
+
+h1 {
+	font-size: 80px;
+	font-family: sans-serif;
+}
+
+button {
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	background-color: yellow;
+	color: brown;
+
+}
+
+p{
+	font-size: 25px;
+	text-align: inherit;
+}
+
+button:hover{
+	background-color: red;
+}
